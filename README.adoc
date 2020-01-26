@@ -1,4 +1,0 @@
-= wkapi
-
-wkapi is a https://www.wanikani.com/home[Wanikani] https://docs.api.wanikani.com[API] library for Java and Android.
-It works with JDK 1.8 and above.
